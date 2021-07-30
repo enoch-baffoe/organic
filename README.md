@@ -10,5 +10,5 @@
 - pip install Flask-MySQLDB
 - pip install yaml
 - pip install hashlib
-
+- pip install Werkzeug
 
