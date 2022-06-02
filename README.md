@@ -35,14 +35,14 @@ Go to this link to view website
 https://rflash.pythonanywhere.com/
 ## Technologies Used
 Front-End
-(i) HTML5
-(ii) CSS3
-(iii) JavaScript
-(iv) Bootstrap
+(i) HTML5 <br>
+(ii) CSS3 <br>
+(iii) JavaScript <br>
+(iv) Bootstrap <br>
 
 Back-End
-(i) Python - Flask
-(ii) MySQL
+(i) Python - Flask <br>
+(ii) MySQL <br>
 ## Key Features
 ### Public User
 (i) Search Product <br>
@@ -77,7 +77,7 @@ NB;  Admin Login Ccredentials
 
 
 ## Conclusion
-There are also many more feature which are not in the list. Feel free to explore this project. Thank you
+There are also many more features which are not in the list. Feel free to explore this project. Thank you
 
 
 ## Get in touch
