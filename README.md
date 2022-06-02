@@ -34,13 +34,13 @@ This project is a multi-vendor ecommerce app which seeks to bridge the gap betwe
 Go to this link to view website
 https://rflash.pythonanywhere.com/
 ## Technologies Used
-Front-End
+Front-End <br>
 (i) HTML5 <br>
 (ii) CSS3 <br>
 (iii) JavaScript <br>
 (iv) Bootstrap <br>
 
-Back-End
+Back-End <br>
 (i) Python - Flask <br>
 (ii) MySQL <br>
 ## Key Features
