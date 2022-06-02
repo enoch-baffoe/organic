@@ -44,18 +44,40 @@ Back-End
 (i) Python - Flask
 (ii) MySQL
 ## Key Features
+### Public User
+(i) Search Product <br>
+(ii) View Product <br>
+(iii) Create User Account <br>
+(iii) Create Sellers Account <br>
+
+
+### Signin User
+(i) Search Product <br>
+(ii) View Product <br>
+(iii) Create Order <br>
+(iv) Change Email & Password <br>
+(v) Can View Previous Order with UPDATE and DELETE <br>
+
+### Seller
+(i) Create New Shop <br>
+(i) Add New Product <br>
+(iii) View Product <br>
+(iv) Change Email & Password <br>
+
+
 ### Admin
-- Approve vendor products to ensure if it is organic
-- Can view all orders on platform and deliver
+(i) Add New Product <br>
+(ii) Update Product <br>
+(iii) See all Orders <br>
+(iv) Manage all Users <br>
+(v)  Approve Sellers posts<br>
+NB;  Admin Login Ccredentials
+(i) Email = bafpep@gmail.com & Password = 12345678<br>
+(ii) Email =twumgilbert7@gmail.com & Password = 12345678<br>
 
-### Vendors
-- Can post a new item
-- can specify quantity of items
-- Can view orders
 
-### Buyers
-- Can select and buy product
-- Can track orders
+## Conclusion
+There are also many more feature which are not in the list. Feel free to explore this project. Thank you
 
 
 ## Get in touch
